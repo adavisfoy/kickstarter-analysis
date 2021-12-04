@@ -2,7 +2,7 @@
 ---
 Kickstarter data analysis to uncover trends in theater projects
 ---
-Findings: Theater/Plays Kickstarter Campaigns quite successful in Great Britain. May is a good month to launch Kickstarter campaigns based on data. Pledges for Musicals in Great Britain often well below goals.  
+Findings: Theater/Plays Kickstarter Campaigns quite successful overall. May is a good month to launch theater-related Kickstarter campaigns based on data analysis. Pledges for Musicals in Great Britain often well below goals, so suggest planning accordingly.  
 ---
 ![Parent Category Outcomes](https://github.com/adavisfoy/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 ---
