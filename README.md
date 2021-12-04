@@ -1,6 +1,6 @@
 # An Analysis of Theater Kickstarter Campaigns
 ---
-Kickstarter data analysis to uncover trends in theater projects
+Kickstarter data analysis to uncover trends in theater projects. . .
 ---
 Findings: Theater/Plays Kickstarter Campaigns quite successful overall. May is a good month to launch theater-related Kickstarter campaigns based on data analysis. Pledges for Musicals in Great Britain often well below goals, so suggest planning accordingly.  
 ---
