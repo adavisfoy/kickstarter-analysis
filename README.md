@@ -39,7 +39,7 @@ campaign.
 - **What can you conclude about the Outcomes based on Goals?**
      - Louise's fundraising goal of $2885 was a reasonable goal given that 73% of successful theater campaigns fell within the range of $1000 - $4999. The percentage of success
        decreases steadily until the goal reaches a range of $35,000 to $44,999. Interestingly, 67% of projects in this funding range succeeded in meeting their goals. We would 
-       need to do additional analysis to determine the underlying factors or if they were outliers. Projects with a goal above $45,000 are very likely to fail based on this data. Overall, if we follow the overall trend of successes, the probability of success decreases as the goal amount increases, which is not surprising.    
+       need to do additional analysis to determine the underlying factors or if they were outliers. Projects with a goal above $45,000 are very likely to fail based on this data. In conclusion, if we follow the overall trend of successes by drawing an imaginary line, the probability of success decreases as the goal amount increases. This is expected if viewed through a common sense lens.     
 
 - **What are some limitations of this dataset?**
      - I am unsure if our sample size was adequate for making any conclusions. We would need to consider the population size, margin of error, confidence level, standard deviation, etc. I believe that we will be covering these topics later in the course.
